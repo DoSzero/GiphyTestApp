@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GiphyTestApp</string>
+    <string name="retry_loading_action">Retry</string>
+    <string name="generic_error_message">An error occurred while loading data</string>
+    <string name="search_hint">Search</string>
+    <string name="nothing_found_text">(・_・;)</string>
+</resources>
